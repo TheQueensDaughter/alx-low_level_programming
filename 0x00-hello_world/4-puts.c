@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#include<stdio.h)
+#include<stdio.h>
    /*prints the given string*/
 int main()
 {
