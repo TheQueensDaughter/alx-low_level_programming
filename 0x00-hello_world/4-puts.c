@@ -1,6 +1,5 @@
-#!/bin/bash
-
 #include<stdio.h>
+
 /*prints the given string*/
 int main(void)
 {
