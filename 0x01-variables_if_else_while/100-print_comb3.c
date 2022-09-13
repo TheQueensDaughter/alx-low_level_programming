@@ -12,7 +12,7 @@ int x;
 int y;
 for (x = '0'; x <= '9'; x++)
 {
-for (y = x++; y <= '9'; y++)
+for (y = ++x; y <= '9'; y++)
 {
 putchar(x);
 putchar(y);
