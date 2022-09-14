@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_isalpha- function that determines if a char is 
+ *_isalpha- function that determines if a char is
  *an alphabet or not
  *@c: the variable to be accessed as argument
  *Return: 1(Success) 0(Not)
