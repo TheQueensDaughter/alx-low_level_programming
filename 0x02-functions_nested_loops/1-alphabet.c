@@ -10,12 +10,11 @@ int main(void)
 {
 void print_alphabet(void);{
 int x;
-for int(x = 'a'; x <= 'z'; x++)
+for (x = 'a'; x <= 'z'; x++)
 {
 _putchar(x);
 }
 _putchar('\n');
-return;
 }
 return (0);
 }
