@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *main- Prints _putchar followed by a new line 
+ *main- Prints _putchar followed by a new line
  *but not with the standard library
- *Returns 0(Success)
+ *Return: 0(Success)
  */
 
 int main(void)
