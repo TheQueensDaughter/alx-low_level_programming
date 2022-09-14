@@ -2,7 +2,7 @@
 
 /**
  *_islower - checks if a given char is lowercase or not
- *
+ *c- variable to be accessed
  *Return: 1(Success) 0(Not)
  */
 
