@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- *main- Function that prints lowercase alphabets
- *but not with the standard library
  *print_alphabet- prints lowercase alphabets
+ *but not with the standard library
  *Return: 0(Success)
  */
 
