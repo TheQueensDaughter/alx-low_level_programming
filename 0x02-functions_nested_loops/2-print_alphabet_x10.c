@@ -14,9 +14,9 @@ while (x <= 10)
 {
 for(y = 'a'; y <= 'z'; y++)
 {
-putchar(y);
+_putchar(y);
 }
-putchar('\n');
+_putchar('\n');
 x++;
 }
 }
