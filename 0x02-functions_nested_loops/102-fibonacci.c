@@ -12,7 +12,8 @@ int num1 = 1;
 for (i = 1; i < 50; i++)
 {
 printf("%i, ", num1);
-num1 += num1
+num1 += num1;
 }
 printf("%i\n", num1);
+return (0);
 }
