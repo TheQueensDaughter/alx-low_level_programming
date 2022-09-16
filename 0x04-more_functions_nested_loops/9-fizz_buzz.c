@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - program that prints numbers 1-100 with
+ *main- program that prints numbers 1-100 with
  *Fizz in place of multiples of three
  *Buzz in place of multiples of five
  *And FizzBuzz in place of multiples of both
