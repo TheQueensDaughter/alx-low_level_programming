@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -15,8 +14,8 @@ for (x = '0'; x < '10'; x++)
 {
 if ((x != '2') || (x != '4'))
 {
-putchar(x);
+_putchar(x);
 }
 }
-putchar('\n');
+_putchar('\n');
 }
