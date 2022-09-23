@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *reset to 98- takes a pointer and updates the value it
+ *reset_to_98- takes a pointer and updates the value it
  *points to
- *Return: None
+ *n- The pointer that points to an int value
  */
 
 void reset_to_98(int *n)
