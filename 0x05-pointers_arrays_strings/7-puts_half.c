@@ -10,8 +10,16 @@
 void puts_half(char *str)
 {
   int i, n;
+  char *pntr;
   i = 0;
-  n = strlen(*str)/2;
+  n = 0;
+  pntr = str;
+  while (*pntr != '\0')
+    {
+      n++;
+      pntr++;
+    }
+  n = n/2;
     while (*str != '\0')
       {
 	if (i >= n)
